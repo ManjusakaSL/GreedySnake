@@ -1,5 +1,5 @@
 # GreedySnake
-java, local net work<br>
+java, local net work\<br>
 	包
 四个主要的包：
 serverUI： 服务器
